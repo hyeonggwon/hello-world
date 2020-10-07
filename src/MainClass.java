@@ -11,7 +11,7 @@ public class MainClass {
 		
 		System.out.println("1~100의 합 : " + MethodClass.total());
 		
-		System.out.println("hello world");
+		System.out.println("hello world ");
 	}
 	
 }
